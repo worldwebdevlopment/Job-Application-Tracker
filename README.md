@@ -1,4 +1,4 @@
-getElementById("id")` → single element
+getElementById("id")` → single element.
 getElementsByClassName("class")` → HTMLCollection (multiple) 
 querySelector("sel")` → first match 
 querySelectorAll("sel")` → all matches (NodeList)
